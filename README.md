@@ -85,4 +85,29 @@ continuando con las comandos basicosde git y githubpara el maquetado de la docum
 ###5. Cuadros para el codigo o Reseñas (BLOCKQUOTES)
 Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion ,configuracion y/o inicializacion o mostrarsecciones de codigo fuete. Se maqueta iniciando el texto con un simbolo de nmenor que .
 
+** Ejemplo **
+Para utilizar las carpetas y archivos en desde un material de sistema operativo windows debemos ingresar el comando:
+>c:/dir
+Despues oprimir la letrar enter
+Tambien podemos ingresar  textos multiples
 
+**Ejemplo **
+>c:/dir
+>- Descargar MySQL server de sitio ofical
+>- Instalar el sistema gestor de base de datos ,  definiendo el puerto y contraseña para el usuario ***rot***
+>- Descargamos nel archivo de respaldo de la base de datos (.sql)
+>- Restauramos la base de datos usando el comando *myql*
+>- c:/program files/MySQL/Mysql server 8.0/bin /mysql -u root  -p password \< respaldo .sql
+### 6. Listas ordenadas y listas Desordenadas 
+si nuestra documentacion necesitamos incluir innformacion en modo de lista, un elemento tras otro podemos hecarlo un punto decimal si las deseamois ordenadas o un guion medio - si solo queremos una viñeta .
+**EJEMPLO **
+Para crear tu primer  repositario de Github deberas:
+1-. Contar un cyenta de Github.
+2-. Dar click en el boton :**nuevo Repositorio 
+3-.Asignar un Nombre a tu reporitario, por ejemplo : *practica03-3b*
+4-., Asignar un nivel de privacidad entre 
+- **Publico :** Si quiere que este disponible para todos los usuarios .
+- **Privado :** si desa que solo a quien tu decidas puedan y colaborar con tu proyecto .
+- 5.Definir si incluye un archivo de descripcion llamado : *README.md*
+- 50. Definir si habra exclusiones de archivo a traves del archivo : *gitignore*
+      3. Guardar los cambios 
