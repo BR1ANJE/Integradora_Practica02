@@ -79,9 +79,10 @@ Algunas veces necesitamos subrayar Texto dentro de la documentacion ,para ellos,
 
 Texto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,texto<ins>Subrayado</ins>.Texto
 
-#Integradora_Practica 03
+# Integradora_Practica 03
 continuando con las comandos basicosde git y githubpara el maquetado de la documentacion.
 
 ###5. Cuadros para el codigo o Reseñas (BLOCKQUOTES)
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion ,configuracion y/o inicializacion o mostrarsecciones de codigo fuete. Se maqueta iniciando el texto con un simbolo de nmenor que .
 
 
