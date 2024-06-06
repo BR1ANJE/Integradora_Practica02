@@ -113,3 +113,8 @@ Para crear tu primer  repositario de Github deberas:
 - 5.Definir si incluye un archivo de descripcion llamado : *README.md*
 - 50. Definir si habra exclusiones de archivo a traves del archivo : *gitignore*
       3. Guardar los cambios 
+### 7. ligas (Hipervinculo)
+las ligas son utilizados para vincular elementos o referencia del proyecto  dentro del mismo repositorio o fuera de de el. y se maquetan utilizando los corchetes 
+\[\]
+**Ejemplo : **
+Mi buscardor favorito es: [google].(https://chatgpt.com/).
