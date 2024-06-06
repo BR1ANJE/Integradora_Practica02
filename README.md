@@ -70,7 +70,6 @@ Si el texto que deseamos enfatizar se encuentra en un párrafo, podemos utilizar
 Para poder poner el texto en negrita, este debera ser encerrado en dos **
 
 EJEMPLO:
-<p align="bold"> Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto importante**Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
-
+**Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante****Texto importante**
 Enfatizar texto en negrita es útil cuando quieres resaltar ciertas palabras o frases para que sean más visibles y fácilmente identificables para los lectores. Puedes utilizar este formato para destacar términos clave, notas importantes o cualquier otro contenido que desees resaltar en tu documentación.
-</p>
+
