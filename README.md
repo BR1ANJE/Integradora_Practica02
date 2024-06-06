@@ -77,6 +77,8 @@ Enfatizar texto en negrita es útil cuando quieres resaltar ciertas palabras o f
 
 Algunas veces necesitamos subrayar Texto dentro de la documentacion ,para ellos,si bien markdown no tiene un atajo o codificacion rápida podemos utilizar el estilo que se usa al estandar de HTMLestilo que se usa al estandar de html  usando el tag<ins> y cerrado con </ins>.
 
+***texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto******texto***
+ 
 Texto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,textoTexto,Texto,texto<ins>Subrayado</ins>.Texto
 
 # Integradora_Practica 03
