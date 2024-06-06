@@ -118,3 +118,9 @@ las ligas son utilizados para vincular elementos o referencia del proyecto  dent
 \[\]
 **Ejemplo : **
 Mi buscardor favorito es: [google].(https://chatgpt.com/).
+
+Pero si deseamos poner solo las ligas directas o un correo electronico podemos  utilizar los simboloss \<\>
+
+**Ejemplo**
+Documentacion creada por : **T.S.U.Brian Jesus Mendoza Marquez** 
+<yisusmendozamarquez@gmail.com>
