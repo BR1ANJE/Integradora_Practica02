@@ -43,3 +43,11 @@ Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto
 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2
 
 Lo que en una página utilizariamos usando la etiqueta < P >.
+
+También podemos aplicar estilos básicos de alineación:
+
+Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto
+Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto
+Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto
+Este párrafo esta alineado a la izq por defecto
+
